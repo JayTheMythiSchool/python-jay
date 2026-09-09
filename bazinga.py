@@ -1,0 +1,7 @@
+print ("bees pretty cool")
+print ("they have 6 legs")
+print ("wasp and hornets are simila\"")
+print ("but n\t\the same")
+print ("bees are probably \nsects")
+print ("i have\t d\ne any reasearch honestly")
+print ("the main reas\n i did this was so i could make a bee movie reference")
